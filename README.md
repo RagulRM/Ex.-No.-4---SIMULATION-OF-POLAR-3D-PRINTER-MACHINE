@@ -32,7 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![image](https://github.com/RagulRM/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121609342/2aea167b-50a3-4b93-b118-b6bbf8968942)
+![image](https://github.com/RagulRM/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121609342/4c10ae50-89fe-4a16-b3a8-a20df776a892)
+
 
 ### Name: Ragul R
 ### Register Number: 212222100040
